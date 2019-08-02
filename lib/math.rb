@@ -19,7 +19,10 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  
+quotient = num 1 / num2
+sum = num2 * quotient 
+modulo = num1 - sum
+return modulo
 end
 
 def square_root(num)
