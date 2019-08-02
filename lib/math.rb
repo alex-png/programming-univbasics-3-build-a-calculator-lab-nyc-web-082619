@@ -18,7 +18,7 @@ def multiplication(num1, num2)
   return product
 end
 
-def modulo(nuexim1, num2)
+def modulo(num1, num2)
 quotient = num1 / num2
 sum = num2 * quotient 
 modulo = num1 - sum
